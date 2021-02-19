@@ -5,3 +5,19 @@ Fri Feb 19 2021 04:33:31 GMT-0700 (Mountain Standard Time)
 fatal: could not read Username for 'https://github.com': Device not configured
 
 
+----------
+
+Fri Feb 19 2021 13:29:35 GMT-0700 (Mountain Standard Time)
+
+error: cannot run gpg: No such file or directory
+error: gpg failed to sign the data
+fatal: failed to write commit object
+
+
+----------
+
+Fri Feb 19 2021 13:29:35 GMT-0700 (Mountain Standard Time)
+
+fatal: could not read Username for 'https://github.com': Device not configured
+
+
